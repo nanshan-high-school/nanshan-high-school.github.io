@@ -7,7 +7,7 @@
 ---
 
 - [20190905](https://hackmd.io/@nssh/20190905)
-- [20190917 基礎班](https://hackmd.io/@nssh/20190917)
+- [20191017 基礎班](https://hackmd.io/@nssh/20191017)
 
 
 108 學年度
