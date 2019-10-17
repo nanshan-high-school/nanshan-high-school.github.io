@@ -1,15 +1,16 @@
 南山資訊培訓
 ===
 
-- [本課簡介](/PZDWe8AITPCZArLTIOLz5Q)
+- [本課簡介](https://hackmd.io/@nssh/about)
 
 109 學年度
 ---
 
-- [20190905](/Vi-oK9pSRm6j2X9J8nO1VA)
-- [20190917 基礎班](/LAv3Vh39R66bNPiylvIRuA)
+- [20190905](https://hackmd.io/@nssh/20190905)
+- [20190917 基礎班](https://hackmd.io/@nssh/20190917)
 
 
 108 學年度
 ---
-[共筆]()
+
+[108 共筆](https://bit.ly/nssh2019)
